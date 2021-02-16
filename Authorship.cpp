@@ -69,6 +69,7 @@ is the user directory on your machine, for example:  /home/nikolay    Enjoy. */
 
 #include <fstream>
 #include <iostream>
+#include <ctime>
 using namespace std;
 
 int main()
